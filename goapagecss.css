@@ -1,0 +1,51 @@
+.con {
+    height: 10vh;
+}
+
+.para1 {
+    color: #9aa5b1;
+    padding: 6px;
+    margin: 6px;
+    font-size: 10px;
+}
+
+.p1 {
+    font-weight: 500;
+    margin: 6px;
+
+}
+
+.c1 {
+    padding: 3px;
+}
+
+.c2 {
+    padding: 3px;
+}
+
+.c3 {
+    padding: 3px;
+}
+
+.img1 {
+    margin: 4px;
+}
+
+.img2 {
+    margin: 4px;
+}
+
+.img3 {
+    margin: 4px;
+}
+.lastp{
+    border-radius:10px;
+    padding:10px;
+}
+.lastvdo{
+  border-radius:10px;
+   margin: 4px;
+}
+.youtbe{
+    border-radius: 10px;
+}

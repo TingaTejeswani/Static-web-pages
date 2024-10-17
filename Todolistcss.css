@@ -1,0 +1,38 @@
+.h{
+    text-align:center;
+    color:white;
+     font-family:Roboto;
+}
+.p{
+    padding:10px;
+    color:white;
+     font-family:Roboto;
+}
+.container{
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png');
+text-align: center;
+    background-size:cover;
+    height:100vh;
+}
+.b{
+     background-color: orange;
+     width:80px;
+     height:40px;
+     font-size:20px;
+     color:white;
+    
+}
+.pp{
+     font-family:Roboto;
+     color:white;
+}
+.d{
+    text-decoration: underline;
+    text-align: center;
+    color:white;
+     font-family:Roboto;
+}
+.r{
+    font-family:Roboto;
+     color:white;
+}

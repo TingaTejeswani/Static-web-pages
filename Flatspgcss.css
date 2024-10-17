@@ -1,0 +1,110 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.pp {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/flats-list-bg.png');
+    background-size: cover;
+    height: 80vh;
+}
+
+.cont {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background-color: #ffffff;
+}
+
+.h1 {
+    text-align: center;
+    color: #f19116;
+    font-family: 'Bree Serif';
+}
+
+.hh {
+    color: #f19116;
+    font-family: 'Bree Serif';
+    padding: 10px;
+}
+
+.button {
+    background-color: #f19116;
+    color: #ffffff;
+    border: 0px;
+    width: 100px;
+    height: 30px;
+    border-radius: 4px;
+    margin: 10px;
+}
+
+.fi {
+    height: 40vh;
+}
+
+.p1 {
+    color: #7b8794;
+    font-family: 'Bree Serif';
+    text-align: center;
+}
+.pp1{
+    color:white;
+    padding:10px;
+}
+.ds{
+    color:#f19116;
+     padding:10px;
+}
+.tr{
+    color:#ffffff;
+     padding:10px;
+    font-family:"Bree Serif";
+}
+.cfm{
+    background-color: #f19116;
+    color:white;
+    margin:5px;
+    border:0px;
+}
+
+.ff {
+    background-color: black;
+    background-size: cover;
+    height: 100vh;
+}
+
+.img3 {
+    height: 150px;
+    float: left;
+
+
+}
+
+.bg {
+    background-color: #ffffff;
+    border-radius: 10px;
+    height: 160px;
+    width: 450px;
+    margin: 30px;
+}
+
+.rs {
+    color: #f19116;
+     padding:10px;
+}
+
+.pr {
+    background-color: #222222;
+    height: 60vh;
+}
+
+.ac {
+    padding-top: 2px;
+    padding-left: 2px;
+    margin: 2px;
+    font-family: 'Bree Serif';
+}
+
+.pt {
+    padding-top: 2px;
+    padding-left: 2px;
+    margin: 2px;
+    color: #7b8794;
+    font-family: 'Bree Serif';
+}

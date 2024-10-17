@@ -1,0 +1,55 @@
+.dcont{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png") ;
+   height:30vh;
+   background-size: cover;
+   
+
+}
+.dhead{
+    color:white;
+    font-size: 30px;
+    font-family: monospace;
+    font-weight: bold;
+    width:200px;
+    padding: 20px;
+}
+.bottom{
+    padding: 20px;
+    text-align:center;
+  background-color: #e6f6ff;
+  
+}
+.cname{
+    
+    font-family: monospace;
+    font-weight: normal;
+    font-size: 15px;
+   
+    color: #616e7c;
+   
+    
+    
+}
+.cprice{
+    font-family: monospace;
+    font-weight: normal;
+    font-size: 16px;
+   
+    
+
+}
+.img{
+    height: 60px;
+    width:60px;
+}
+.card{
+    background-color: white;
+    width:150px;
+    margin:16px;
+    border-radius: 9px;
+    padding:16px;
+    text-align: center;
+  
+ 
+  
+}

@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.cont {
+    background-image: url("https://new-assets.ccbp.in/frontend/static-website/moon-stars-bg.png");
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.head {
+    color: white;
+    font-size: 30px;
+    font-family: "Bree Serif";
+    text-align: center;
+    margin-top: 60px;
+    padding: 3px;
+}
+
+.para {
+    color: white;
+    font-family: "Bree Serif";
+    text-align: center;
+    font-size: 13px;
+    padding: 15px;
+}
+
+.second {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+    height: 30vh;
+    width: 50vh;
+    padding: 10px;
+    margin: 20px;
+    background-size: cover;
+
+}
+
+.hh {
+    color: white;
+    text-align: center;
+    font-family: "Bree Serif";
+    font-size: 25px;
+    padding: 20px;
+}
+
+.p2 {
+    color: white;
+    font-family: "Bree Serif";
+    text-align: center;
+    font-size: 15px;
+    padding: 10px;
+}
+
+.button {
+    color: white;
+    background-color: #8e97fd;
+    border-radius: 10px;
+    border: 0px;
+    padding: 7px;
+}
+
+.cont2 {
+    background-color: #03174c;
+    background-size: cover;
+    height: 150vh;
+}
+
+.img3 {
+    color: white;
+    background-size: cover;
+    font-size: 30px;
+    font-family: "Bree Serif";
+    height: 50vh;
+    width: 70vh;
+}
+
+.head2 {
+    color: white;
+    font-size: 30px;
+    font-family: "Bree Serif";
+    padding: 10px
+}
+
+.pp2 {
+    padding: 10px;
+    color: #98a1bd;
+    font-family: "Bree Serif";
+}
+
+.img4 {
+    width: 30vh;
+    height: 20vh;
+    padding: 10px;
+
+}
+
+.pt {
+    color: white;
+    font-size: 15px;
+    padding-left: 10px;
+    font-family: "Bree Serif";
+}
+
+.pt2 {
+    color: white;
+    text-align: right;
+    font-size: 15px;
+    padding-left: 80px;
+    font-family: "Bree Serif";
+}
+.ppt{
+    color:#98a1bd;
+    font-family: "Bree Serif";
+    text-align: center;
+    font-size: 15px;
+    padding: 10px
+}
+.btt{
+    color:#ffffff;
+    border:0px;
+    background-color: #8e97fd;
+    padding:5px;
+    margin:5px;
+    border-radius:10px;
+    width:90px;
+}

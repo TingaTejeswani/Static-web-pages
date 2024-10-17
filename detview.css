@@ -1,0 +1,80 @@
+.htext{
+  font-size:30px;
+  font-family: "Robonto";
+  font-weight: bold;
+  padding:10px;
+  margin:5px;
+}
+.ddescp{
+    font-size: 13px;
+    padding:10px;
+  margin:5px;
+
+}
+.taj{
+  padding: 10px;
+}
+.gold{
+  padding: 10px;
+}
+.mysore{
+  padding: 10px;
+}
+.detbg{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
+    
+}
+.dhead{
+  font-size: 30px;
+  color:white;
+  
+
+}
+.content{
+ 
+}
+.det{
+  background-color: azure;
+  padding:10px;
+  margin:15px
+}
+button{
+  height:40px;
+  width:100px;
+  margin:10px;
+   padding:3px;
+  color:#ff8348;
+  border:0px;
+  border-radius:10px;
+}
+.para{
+  padding:10px;
+  color:white;
+  font-size:13px;
+}
+.para2{
+  padding:10px
+
+}
+
+.cont{
+  background-color: #ff8348;
+  height:150vh;
+  background-size: cover;
+}
+.cont2 {
+  margin: 20px;
+  padding: 20px;
+}
+.head1{
+color:white;
+font-size:25px;
+padding:10px;
+
+  color:white;
+  font-size: 500;
+}
+.img1{
+  padding:3px;
+  margin:5px;
+}
